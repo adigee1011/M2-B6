@@ -6,4 +6,3 @@ What's the difference between an "attribute" and a "property"?
 What language constructions do you use for iterating over object properties and array items?
 What is the event loop?
 What is the difference between call stack and task queue?
-What are the differences between ES6 classes and ES5 function constructors?
