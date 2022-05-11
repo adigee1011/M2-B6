@@ -20,7 +20,7 @@ https://2ality.com/2011/04/iterating-over-arrays-and-objects-in.html
 
 
 * What is the event loop?
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+
 
 
 
